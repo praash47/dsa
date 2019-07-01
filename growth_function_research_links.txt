@@ -1,0 +1,5 @@
+https://www.cpp.edu/~ftang/courses/CS240/lectures/analysis.htm
+http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap02.htm
+https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/s4_4.pdf
+https://www.cs.odu.edu/~toida/nerzic/content/function/growth.html
+https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/notations.html
