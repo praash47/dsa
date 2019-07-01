@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561433833 source:c:\users\acer\desktop\spoj\pqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1561434478 source:c:\users\acer\desktop\lab\pqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
