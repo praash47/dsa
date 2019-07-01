@@ -72,7 +72,7 @@ void main()
     pq_init(&p);
     insert(&p,10);
     insert(&p,2);
-    insert(&p,12);
+    insert(&p,1);
     insert(&p,19);
      insert(&p,1);
     printf("\nDEQUE=%d",deque(&p));
